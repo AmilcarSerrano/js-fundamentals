@@ -1,7 +1,7 @@
 const miObjeto = {
-    miNumero: 7441485461,
-    miMail: 'amilcar.seav@gmail.com',
-    miEdad: 29,    
+    miNumero: 7445555222,
+    miMail: 'amilcar.asaa@gmail.com',
+    miEdad: 18,    
 }
 
 const emptyArray = [1,2];
